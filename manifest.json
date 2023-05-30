@@ -1,0 +1,1316 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://oculus-samples.github.io/Unity-Movement/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://oculus-samples.github.io/Unity-Movement/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/Unity-Movement/Unity-Movement/.Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.AnimationRigSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.AnimationRigSetup.html",
+          "hash": "3C/vLhEG5fUF/RWVSw42ng7HTK4+U+3MqKYLJsoYMcw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.ArmPosData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.ArmPosData.html",
+          "hash": "segipaZ3INjK2d8UTHVeu1y54bojY28GRlFnik+WB+s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.BonePairData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.BonePairData.html",
+          "hash": "QeRgWKgGlxyjYcUhSAyyh8+0I4D1Tc8yXOFZ7QymUdw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.CustomMappings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.CustomMappings.html",
+          "hash": "8kpIdDYuk+as51TrCBP/AHJbm4mnvf+zzn8/unyC4Ms="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.DeformationConstraint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.DeformationConstraint.html",
+          "hash": "9riv4XrYmJhXN8apKJAae9dMMyMsmGlz6a2rlq3nupc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.DeformationConstraintEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.DeformationConstraintEditor.html",
+          "hash": "bNlPF5WZxcczvQi7DXMFtvXk5VUSadlPZ/3wzdwvYNI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.DeformationData.SpineTranslationCorrectionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.DeformationData.SpineTranslationCorrectionType.html",
+          "hash": "SSn5arK+xCK6RTBpmyO/iV5oGnpraOur1bHZ4iZbky0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.DeformationData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.DeformationData.html",
+          "hash": "cMH7pJNXiOU8bPHogyr9cMtZiKxe28StueZBZ+pnmGo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.DeformationJob.BoneAnimationData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.DeformationJob.BoneAnimationData.html",
+          "hash": "vuixh8lnv3ZKxFqQtXZ5/FFn9mwuBEd8Y1EN6vejjDg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.DeformationJob.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.DeformationJob.html",
+          "hash": "qOWq6J5N2bEjnayQEuPW7lo20TBurRaphBSaTTp0SIE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.DeformationJobBinder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.DeformationJobBinder-1.html",
+          "hash": "f+BelQhx+0ERYxdGk2RszcNFcQ1Kp4vTlVCIJlV1A0c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.GroundingConstraint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.GroundingConstraint.html",
+          "hash": "CzTN5FuDAqpe2k0jIrFJMNnaBoGKdnHSt2xuJ/gxogg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.GroundingData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.GroundingData.html",
+          "hash": "cexJylj6IqK+CD8fwti0CDEItNwNcY4zHi7O2j7NuD4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.GroundingJob.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.GroundingJob.html",
+          "hash": "kO56w59yQjxw67BO8pbP7OWPpdZRaPsPzmj6b2D8oew="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.GroundingJobBinder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.GroundingJobBinder-1.html",
+          "hash": "lb5XhEdAmoPlHNufGQfgsmxG+6F32pJVw6rjtxySYyg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.HipPinningConstraint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.HipPinningConstraint.html",
+          "hash": "whjYh63Epmlxy4mAAaN90F439ANfjUFbh2/Xmc9jRgQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.HipPinningConstraintEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.HipPinningConstraintEditor.html",
+          "hash": "UX9mROwHoJVpffDNQCAfXnZfmtGM0LWDJ9hfRjQ3uU8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.HipPinningConstraintTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.HipPinningConstraintTarget.html",
+          "hash": "JsZYTjVbxRgJvoIp5j5061bhbG91RomoQl79QSZcKmo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.HipPinningData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.HipPinningData.html",
+          "hash": "LpG2u9Snks+UqGkIGFw2NcFD8mUhJAEVVzsl2+K2GGo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.HipPinningJob.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.HipPinningJob.html",
+          "hash": "lyAxRcSw+ABe2tI4Cir/BBQfW0Wm1pu273xUxAwezcc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.HipPinningJobBinder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.HipPinningJobBinder-1.html",
+          "hash": "Y0pIj8yaXSPp24D7/ZTAYUclesxNZVFzHdCzgCQvqAw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.IDeformationData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.IDeformationData.html",
+          "hash": "64K5x02mX8YOTHDK/tMjPtjQ7fgXUDr9l3gJZQPvIlw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.IGroundingData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.IGroundingData.html",
+          "hash": "rBUwgvpXWARfTRAjy7drjvIhka8uvFaIDA16HuOcZkY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.IHipPinningData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.IHipPinningData.html",
+          "hash": "VXri3KBjDky9diqiT599Ty2b2gN6zGZBPM7L6myPGJc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.IJointConstraint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.IJointConstraint.html",
+          "hash": "SnT2eN1wrRLB5LXqbc0UAAbqawJRGT8q7rkl65NgiW4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.IOVRSkeletonConstraint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.IOVRSkeletonConstraint.html",
+          "hash": "Gojeu9IIoxer7aRVYOjyFHZlfnmT4dMgDBiF/B+GxcQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.IRetargetingData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.IRetargetingData.html",
+          "hash": "R110bZaT9uHr1O9Nt6ImSrWDXNz735V2386tA19nOro="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.ITwistDistributionData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.ITwistDistributionData.html",
+          "hash": "ol74pxw6YxO6JEi9JZ40kA4VTX2dCEWSluMaz7c9hMs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.PositionalJointConstraint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.PositionalJointConstraint.html",
+          "hash": "SgQ843kuBvzN6Kz9SOx+juRQGdVADuF3052PkCPyrYs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.RetargetingAnimationConstraint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.RetargetingAnimationConstraint.html",
+          "hash": "N/D8wXZHBd+F1w5bR+RwHYA/z4P0z/Tcaifqe4SP9qM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.RetargetingAnimationJob.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.RetargetingAnimationJob.html",
+          "hash": "KQELGU1ghEhSSQK8pfpXABqmfpUSbPDm9bmJj0elTQM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.RetargetingAnimationJobBinder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.RetargetingAnimationJobBinder-1.html",
+          "hash": "736wnYEFFH7CnLcv3VnmZt0CJh/jzrIGdHBlFztKCTY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.RetargetingConstraintData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.RetargetingConstraintData.html",
+          "hash": "o4/z4Cj5Ljjk8OWsA0GFf7O1jF2aeIGK0KpP2a29KUo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.RetargetingLayer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.RetargetingLayer.html",
+          "hash": "h9letn61BR/LFe1JDOnCnlkL49vkEJ2AcGOjteK9MjE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.TwistDistributionConstraint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.TwistDistributionConstraint.html",
+          "hash": "thPfkWHo1j45l7Zn4oL7cGPxCgGcZGYu82+sHemu+dk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.TwistDistributionConstraintEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.TwistDistributionConstraintEditor.html",
+          "hash": "PP7xQher4c0PN46Rpmk45MisuKag0d0M4+cI93fRjLA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.TwistDistributionData.Axis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.TwistDistributionData.Axis.html",
+          "hash": "GKAhfxKC8RrKxvPt1b8Ba5wHyi/5OFuXFb2YuEi9ruE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.TwistDistributionData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.TwistDistributionData.html",
+          "hash": "QOQZbZK5t9v/zq54YudAI4PJrb6WcQ2TxvBXGr/ffQY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.TwistDistributionJob.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.TwistDistributionJob.html",
+          "hash": "2kQjb3fKnJm/d3SQ16zkyslp9GTomQPmDu+Fa8qiIJk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.TwistDistributionJobBinder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.TwistDistributionJobBinder-1.html",
+          "hash": "zJpB6qeMkiO77GOK3z0YGebcAvsYLY1woD5yKUmb0RU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.AnimationRigging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.AnimationRigging.html",
+          "hash": "IVXg3GC3v+LVZCz5nx1zbTmhcKVeugglcOq+IG0DcsE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.CompareVectorHashes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.CompareVectorHashes.html",
+          "hash": "26s7Jl+i0rP+fOOUzR/UF2NH/MgPiridsTE3S9ZYFl4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.CompareVectorHashesEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.CompareVectorHashesEditor.html",
+          "hash": "c5+Hq0oqKmrWggauRdkEGamEPwscd9lAypBowQbibiQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.HandDeformation.FingerInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.HandDeformation.FingerInfo.html",
+          "hash": "Qpser+6LQ3OjyqfmJhQ4qb9FbsQkJ8kbN3aKTHc5uLw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.HandDeformation.FingerOffset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.HandDeformation.FingerOffset.html",
+          "hash": "EKvRWQ+YWvHZV1y7QUTDQvVWZ1njifluZQfijd02EEY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.HandDeformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.HandDeformation.html",
+          "hash": "5/OG3yduXmIehabUOeNlyqdE3OLVd6ccB6iDUv1AkOk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.LateMirroredObject.MirroredTransformPair.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.LateMirroredObject.MirroredTransformPair.html",
+          "hash": "CObW8qXck37SvUH1B9ZYE/570E+p0W+N/619eLBh7LE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.LateMirroredObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.LateMirroredObject.html",
+          "hash": "SClNGeFo4BgpLHwyuZkxcJXo7+OhRiAhSUZUDajXPnM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.LateMirroredObjectEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.LateMirroredObjectEditor.html",
+          "hash": "Duxhuo01M6yjMihVpCZcvV1aprWNr3whkrk33Ma+YXI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.LateMirroredSkeleton.MirroredBonePair.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.LateMirroredSkeleton.MirroredBonePair.html",
+          "hash": "6nvFhCw/+lfMZoGCi9CQ4ehFSlXkZ1qmPbiV02fjO10="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.LateMirroredSkeleton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.LateMirroredSkeleton.html",
+          "hash": "kh80A2xLM5iSLh8lp8it0q+YCj+y8MBhZ9ZJXS6Nheg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.LateMirroredSkeletonEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.LateMirroredSkeletonEditor.html",
+          "hash": "YWZaOOy2gf1C+QGp81PfMzBMtPuxUbzb4Xq8Jdp+b3I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.MacroFacialExpressionDetector.MacroExpressionState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.MacroFacialExpressionDetector.MacroExpressionState.html",
+          "hash": "cCYImjKMIT9vSzt8fenVl7e+7aEeuk2DD4LtrsIQUyk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.MacroFacialExpressionDetector.MacroExpressionStateChangeEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.MacroFacialExpressionDetector.MacroExpressionStateChangeEventArgs.html",
+          "hash": "qE52rqwib+VlfCB7hypAdqwXjSXIj7QrY1xrXnpAz2U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.MacroFacialExpressionDetector.MacroExpressionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.MacroFacialExpressionDetector.MacroExpressionType.html",
+          "hash": "3BYFPhnZEw4BVfCgLbAZ6s9/+Q4wzuJImMMVgchitCM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.MacroFacialExpressionDetector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.MacroFacialExpressionDetector.html",
+          "hash": "Mw4pEldzKR0pcvO4rA3q6RjwB/8vKo+RA7izpF2CUTQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.MatrixUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.MatrixUtils.html",
+          "hash": "J4TJr1Ewd5/7/rhBzVbHMg9Sz0ewLnDwfSxPVEdj5Bk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.MirrorTransformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.MirrorTransformation.html",
+          "hash": "BbWaVkQw1bkQ+pZeMeywPZSZUpcJ8KUnf+fUdmxqb+0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.NormalRecalculator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.NormalRecalculator.html",
+          "hash": "xFKn3qybebEjGksiaQ9vMl3rBgmPTtjKDzaJR9bmkFY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.RecalculateNormals.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.RecalculateNormals.html",
+          "hash": "5/VoWRIrb/x4R6eSj+ImkJc8sdZZDTXikYSvjKOv0DI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.SmileEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.SmileEffect.html",
+          "hash": "lAFeLFvK9wWGuVGlDjC3qYf/mxEl3F4E9YO8R8cQ4v0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.VertexKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.VertexKey.html",
+          "hash": "Hg7iJmcMz6tNXDYr87HtJM8yWAQhuzJlG7EW1JE1NnU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Effects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Effects.html",
+          "hash": "UilrP/1OIqDarbwSQLV4gq2Ey3BxoTrYwXsHi/4W6k0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Tracking.ARKitFace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Tracking.ARKitFace.html",
+          "hash": "5buBE2biw3LNsRrga018Fjqjw802ivoXQiXENpfSjvg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Tracking.ARKitFaceEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Tracking.ARKitFaceEditor.html",
+          "hash": "SDeMz36g/lDXoGDv7A0Kl6whg6sH/ZCf4nbtwUKgbFc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Tracking.BlendshapeModifier.FaceExpressionModifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Tracking.BlendshapeModifier.FaceExpressionModifier.html",
+          "hash": "pCH+DCVG4U2AIKgdISdFlCTnZG+mzMnPGBPN1tptPoU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Tracking.BlendshapeModifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Tracking.BlendshapeModifier.html",
+          "hash": "uwdVveyQ97ZLVl6KwNRN23jS12oV2c3mZbrCoyEog1Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Tracking.CorrectivesFace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Tracking.CorrectivesFace.html",
+          "hash": "Cyrblf0C3uWLc029b1g+l8sAv0ACtIGIylkkEaJ2OGk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Tracking.CorrectivesFaceEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Tracking.CorrectivesFaceEditor.html",
+          "hash": "2cbPAgshRc+6Je+osinVLWWDfXrIPclxHx1kNlIdZrM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Tracking.CorrectivesModule.Combination.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Tracking.CorrectivesModule.Combination.html",
+          "hash": "PDhgOiCyqHkFzl5h2gZH2atWmHaXFIcHvkaZ2ZvgYHU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Tracking.CorrectivesModule.InBetween.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Tracking.CorrectivesModule.InBetween.html",
+          "hash": "nrW8FRgwrKkEhFtCAjyasJGgveJxsTRKVmrvka1eypU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Tracking.CorrectivesModule.RigLogicData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Tracking.CorrectivesModule.RigLogicData.html",
+          "hash": "OKeId5nb+f5lTlJq0CYjImQ2LZ49NpAbBB3qQMiLEL8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Tracking.CorrectivesModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Tracking.CorrectivesModule.html",
+          "hash": "fT++xdoZ19h13wX72nDdc1zOGqsCeGLaa+/eRLp3Q2Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Tracking.FaceExpressionModifierDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Tracking.FaceExpressionModifierDrawer.html",
+          "hash": "1p5qHaBBqn0yZbpozWGPavu0hHojbbNIxJtuwj3Xmxw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Tracking.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Tracking.html",
+          "hash": "geavqjh3at1dmpwR961DGx1DaOAOQ9bOwSkeR9+BTu4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.UI.BlendshapesMenuToggle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.UI.BlendshapesMenuToggle.html",
+          "hash": "V9f/FcBc6tPI/zRDM/vVfmfqQzZ+TovdSiecAH6esTY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.UI.BlendshapesMenuVisual.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.UI.BlendshapesMenuVisual.html",
+          "hash": "DmGcNp+tQC7YgX9RdBwHrMf5S5uUFKLBup4zoDkaQxk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.UI.ButtonToggleIcon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.UI.ButtonToggleIcon.html",
+          "hash": "vgEIIwLiw+QtREbg1Q/8TFAOy+qzMN2x15l6zs2OxNg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.UI.HipPinningConstraintCalibration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.UI.HipPinningConstraintCalibration.html",
+          "hash": "O+PNDpTUdSGFE52ult6HR1OsY1zspaHuk9JsAdiDxJA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.UI.HipPinningConstraintNotification.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.UI.HipPinningConstraintNotification.html",
+          "hash": "rBzhBfwguTLfJqEpmoJKDwkic+ZfSmhy7BuhWjyUyZY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.UI.RetargetingMenu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.UI.RetargetingMenu.html",
+          "hash": "abM7sHCbkyqEUKsXuIgWuDn806wduqI6i2wFFODghac="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.UI.SceneSelectIcon.IconPositionInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.UI.SceneSelectIcon.IconPositionInformation.html",
+          "hash": "7FkAScIyZq5rji0jyc9dLPCX/ICyHP42rBPMvrWujNQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.UI.SceneSelectIcon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.UI.SceneSelectIcon.html",
+          "hash": "LM77fp/bUfBkqSWKnjKl8L5NeFI/uqd/wEZDPvvQ4Hs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.UI.ScriptEffectToggle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.UI.ScriptEffectToggle.html",
+          "hash": "e1F8/K+NnW0EJ+TjB7sh8F5RsrlPXFq5qK0lxb9mRjk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.UI.html",
+          "hash": "1/XLkHKmFxBAYXV6LiVMaCtq3EWepyJhrAhejaYpE+s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Utils.AddComponentsRuntime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Utils.AddComponentsRuntime.html",
+          "hash": "ThOyFlgCa+7wKVWcJE5rteiw9Ekwq2qweXuCWLrzlK8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Utils.ProjectValidation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Utils.ProjectValidation.html",
+          "hash": "O4Jz3ENaQa34sw8+zUC9QLsFgdnzCFltVF3kjqSel/I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Utils.ProjectValidationWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Utils.ProjectValidationWindow.html",
+          "hash": "Kjb8FU+DTjQvGkESUQaIlAMIrA1s1nm9HXWvuRj8zog="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Utils.RequestMicrophonePermissions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Utils.RequestMicrophonePermissions.html",
+          "hash": "LlI6r7Hs3QAHMLL9vaenwJTlg7ZXq32V5F4OEluvkAs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Utils.ScreenshotFaceExpressions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Utils.ScreenshotFaceExpressions.html",
+          "hash": "Zfp8wJ5gHd1TrG3a2/i7WaYkdwwhs+u5yvFw8L95trQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Utils.ScreenshotFaceExpressionsCapture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Utils.ScreenshotFaceExpressionsCapture.html",
+          "hash": "rvBCBdZQdu3rXolrRZ3XzrdDNRM881cyrCveTrgA4jg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Utils.ScreenshotFaceExpressionsCaptureEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Utils.ScreenshotFaceExpressionsCaptureEditor.html",
+          "hash": "i5ktR0s8GCRjGNYIikiwz27txlvTi6KRAmKV+8qI57c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Utils.ScreenshotFaceExpressionsEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Utils.ScreenshotFaceExpressionsEditor.html",
+          "hash": "AR5T0+ovnehJhJNC7Sc/u/KVOpZSsylO+UrFjQIEIL4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Utils.ShaderBuildPreprocessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Utils.ShaderBuildPreprocessor.html",
+          "hash": "fUaMbe5ls7iKJAZmSS2tWJwhKu8fCZqFdbQ3RFaFPNA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Oculus.Movement.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Oculus.Movement.Utils.html",
+          "hash": "5TYbZe25r/ocXzGRVuEsa+TyQMfEKh7TULvt8EGmeyk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "XJC0NA1+gQIvwsTvv7cadFm2QJHXyoCT6GbWUWZq64E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "NC4/kaN/0J7vWIXpGu8eX9p45LPIVBo2sZH2+RQQ6Og="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/overview.html",
+          "hash": "YG19JdQZ5RjfoGuBe3jfaPWLihHjR8Ka365BGIV5jNo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/samples.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/samples.html",
+          "hash": "yXl7HjXBLMkK/ArVORjR+ZMquP0yZRLVGljdIz6tj6E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "iKXO3YJ3IucLXVDTnwQ/LKBVqakhqWosChWVr1o13BY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "GVe2fgLpNwf6/DWIHsb9fMFIPe1MJS82Cevo0nRVdbU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 101,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
